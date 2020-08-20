@@ -7,7 +7,7 @@ Department of Electrical and Computer Engineering
 ## _CSE311L_Section_1_Summer20_NSU_Midterm_1_ 
 
 <p align="justify">
-This is the official Github Repository for Submission of Mid Term-1, <b>CSE311L: Database Management System Lab, Section 1, Summer 2020</b>. Submission of Mid Term-1 is facilitated here.</br> </br> 
+This is the official Github Repository for Submission of Mid Term-1, <b>CSE311L: Database Management System Lab, Section 1, Summer 2020</b>. Submission of Mid Term-1 (29.08.2020) is facilitated here.</br> </br> 
 
 </html>
 
